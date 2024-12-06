@@ -1,0 +1,57 @@
+h1{
+	font-size:60px;
+}
+body{
+	margin:0;
+	padding:0;
+}
+#mumu{
+	color:rgb(206, 86, 186);
+	font:70px;
+}
+.flex-container{
+	display:flex;
+}
+.ABCD{
+	display:flex;
+}
+.half-width {
+	width:50%;
+	padding:2%;
+}
+.login-btn{
+	text-decoration:none;
+	background-image:linear-gradient(rgb(242, 121, 216),rgb(168, 240, 247));
+	color:purple;
+	padding:10px 40px;
+	font-weight:700;
+	border-radius:20px;
+}
+.top-banner{
+	background-image:url(images/top-banner.png);
+	background-repeat:no-repeat;
+}
+.second-bnr{
+	background-image:url(images/dream-bg.png);
+	background-repeat:no-repeat;
+	background-position:right;
+}
+
+.experience{
+	width:40%;
+	box-shadow:10px 10px 40px grey;
+	margin-left:5%;
+	padding:20px;
+	border-radius:10px;
+	border-left:7px solid royalblue;
+}
+
+#fs-deb{
+	border-left:7px solid orangered;
+}
+
+.exp-bg{
+	background-image:url(images/exp-bg.png);
+	background-repeat:no-repeat;
+	background-position:left;
+}
